@@ -1,0 +1,204 @@
+{
+  "tests": [
+    {
+      "name": "gstAmount Type",
+      "setup": "npm install",
+      "run": "npm run test-gstAmount-type",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "gstAmount Value",
+      "setup": "",
+      "run": "npm run test-gstAmount-value",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "gstRate Type",
+      "setup": "",
+      "run": "npm run test-gstRate-type",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "gstRate Value",
+      "setup": "",
+      "run": "npm run test-gstRate-value",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "guestName Type",
+      "setup": "",
+      "run": "npm run test-guestName-type",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "guestName Value",
+      "setup": "",
+      "run": "npm run test-guestName-value",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "nightlyRate Type",
+      "setup": "",
+      "run": "npm run test-nightlyRate-type",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "nightlyRate Value",
+      "setup": "",
+      "run": "npm run test-nightlyRate-value",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "numberOfNights Type",
+      "setup": "",
+      "run": "npm run test-numberOfNights-type",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "numberOfNights Value",
+      "setup": "",
+      "run": "npm run test-numberOfNights-value",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "pstAmount Type",
+      "setup": "",
+      "run": "npm run test-pstAmount-type",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "pstAmount Value",
+      "setup": "",
+      "run": "npm run test-pstAmount-value",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "pstRate Type",
+      "setup": "",
+      "run": "npm run test-pstRate-type",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "pstRate Value",
+      "setup": "",
+      "run": "npm run test-pstRate-value",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "subTotal Type",
+      "setup": "",
+      "run": "npm run test-subTotal-type",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "subTotal Value",
+      "setup": "",
+      "run": "npm run test-subTotal-value",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "total Type",
+      "setup": "",
+      "run": "npm run test-total-type",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "total Value",
+      "setup": "",
+      "run": "npm run test-total-value",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "guestMessage Type",
+      "setup": "",
+      "run": "npm run test-guestMessage-type",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "guestMessage Value",
+      "setup": "",
+      "run": "npm run test-guestMessage-value",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}

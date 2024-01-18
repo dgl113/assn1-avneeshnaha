@@ -1,0 +1,41 @@
+{
+  "name": "dgl-113-2024wi-a1",
+  "version": "1.0.0",
+  "description": "DGL 113 2024WI Assignment #1",
+  "scripts": {
+    "test": "jest",
+    "test-gstAmount-type": "jest -t 'gstAmount type'",
+    "test-gstAmount-value": "jest -t 'gstAmount value'",
+    "test-gstRate-type": "jest -t 'gstRate type'",
+    "test-gstRate-value": "jest -t 'gstRate value'",
+    "test-guestName-type": "jest -t 'guestName type'",
+    "test-guestName-value": "jest -t 'guestName value'",
+    "test-guestMessage-type": "jest -t 'guestMessage type'",
+    "test-guestMessage-value": "jest -t 'guestMessage value'",
+    "test-nightlyRate-type": "jest -t 'nightlyRate type'",
+    "test-nightlyRate-value": "jest -t 'nightlyRate value'",
+    "test-numberOfNights-type": "jest -t 'numberOfNights type'",
+    "test-numberOfNights-value": "jest -t 'numberOfNights value'",
+    "test-pstAmount-type": "jest -t 'pstAmount type'",
+    "test-pstAmount-value": "jest -t 'pstAmount value'",
+    "test-pstRate-type": "jest -t 'pstRate type'",
+    "test-pstRate-value": "jest -t 'pstRate value'",
+    "test-subTotal-type": "jest -t 'subTotal type'",
+    "test-subTotal-value": "jest -t 'subTotal value'",
+    "test-total-type": "jest -t 'all tests total type'",
+    "test-total-value": "jest -t 'all tests total value'"
+  },
+  "author": "Brian Koehler",
+  "license": "MIT",
+  "jest": {
+    "preset": "jest-puppeteer"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.6",
+    "@babel/preset-env": "^7.23.6",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-puppeteer": "^9.0.2",
+    "puppeteer": "^21.6.1"
+  }
+}
