@@ -6,3 +6,10 @@ console.log('Guest Name:', guestName);
 var guestName = prompt("Please enter the guest's name:");
 var guestMessage = 'Guest: ' + guestName;
 console.log('Guest Message:', guestMessage);
+
+var guestName = prompt("Please enter the guest's name:");
+var numberOfNights = parseInt(
+  prompt('Please enter the number of nights for the hotel stay:')
+);
+console.log('Guest Name:', guestName);
+console.log('Number of Nights:', numberOfNights);
