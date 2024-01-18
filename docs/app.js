@@ -24,3 +24,6 @@ var nightlyRate = parseFloat(
 console.log('Guest Name:', guestName);
 console.log('Number of Nights:', numberOfNights);
 console.log('Nightly Rate:', nightlyRate);
+var pstRate = parseFloat(
+  prompt('Please enter the rate of the provincial sales tax (e.g. 8%):')
+);
