@@ -38,3 +38,5 @@ var subTotal = numberOfNights * nightlyRate;
 var pstAmount = pstRate * subTotal;
 
 var gstAmount = gstRate * subTotal;
+
+var total = subTotal + pstAmount + gstAmount;
