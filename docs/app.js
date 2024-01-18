@@ -27,3 +27,8 @@ console.log('Nightly Rate:', nightlyRate);
 var pstRate = parseFloat(
   prompt('Please enter the rate of the provincial sales tax (e.g. 8%):')
 );
+
+var gstRate =
+  parseFloat(
+    prompt('Please enter the rate of the goods and services tax (e.g. 5%):')
+  ) / 100;
