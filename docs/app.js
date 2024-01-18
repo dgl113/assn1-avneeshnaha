@@ -44,3 +44,13 @@ var total = subTotal + pstAmount + gstAmount;
 var nightlyRate = 225;
 var pstRate = 0.08;
 var gstRate = 0.05;
+
+console.log('Guest Name:', guestName);
+console.log('Number of Nights:', numberOfNights);
+console.log('Nightly Rate:', nightlyRate);
+console.log('PST Rate:', pstRate);
+console.log('GST Rate:', gstRate);
+console.log('Subtotal:', subTotal);
+console.log('PST Amount:', pstAmount);
+console.log('GST Amount:', gstAmount);
+console.log('Total:', total);
