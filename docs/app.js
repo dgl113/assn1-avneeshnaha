@@ -32,3 +32,5 @@ var gstRate =
   parseFloat(
     prompt('Please enter the rate of the goods and services tax (e.g. 5%):')
   ) / 100;
+
+var subTotal = numberOfNights * nightlyRate;
