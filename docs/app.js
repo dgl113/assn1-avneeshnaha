@@ -13,3 +13,14 @@ var numberOfNights = parseInt(
 );
 console.log('Guest Name:', guestName);
 console.log('Number of Nights:', numberOfNights);
+
+var guestName = prompt("Please enter the guest's name:");
+var numberOfNights = parseInt(
+  prompt('Please enter the number of nights for the hotel stay:')
+);
+var nightlyRate = parseFloat(
+  prompt('Please enter the nightly rate for the hotel room (e.g. $225):')
+);
+console.log('Guest Name:', guestName);
+console.log('Number of Nights:', numberOfNights);
+console.log('Nightly Rate:', nightlyRate);
