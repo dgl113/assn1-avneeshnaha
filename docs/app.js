@@ -13,4 +13,4 @@ let pstRate = 0.08;
 let pstAmount = subTotal * pstRate;
 let gstRate = 0.05;
 let gstAmount = subTotal * gstRate;
-let total = subtotal + pstAmount + gstAmount;
+let total = subTotal + pstAmount + gstAmount;
