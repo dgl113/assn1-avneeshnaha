@@ -8,7 +8,7 @@ let numberofNights = parseInt(
   prompt('Please Enter The Number Of Nights For Your Stay: ')
 );
 let nightlyRate = 225;
-let nightlyRate = numberofNights * nightlyRate;
+let subTotal = numberofNights * nightlyRate;
 let pstRate = 0.08;
 let pstAmount = subTotal * pstRate;
 let gstRate = 0.05;
