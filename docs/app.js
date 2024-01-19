@@ -11,3 +11,4 @@ let nightlyRate = 225;
 let nightlyRate = numberofNights * nightlyRate;
 let pstRate = 0.08;
 let pstAmount = subTotal * pstRate;
+let gstRate = 0.05;
