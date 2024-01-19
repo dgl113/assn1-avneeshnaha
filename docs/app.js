@@ -1,5 +1,9 @@
 'use strict';
 
+//variables
+
+let guestName = prompt('Please Enter Guest Name:');
+
 var guestName = prompt("Please enter the guest's name:");
 console.log('Guest Name:', guestName);
 
